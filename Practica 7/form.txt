@@ -1,0 +1,13 @@
+<form action="javascript:alert('Tranquilo! Este formulario solo es de muestra.\nAprenderás a desarrollar en web cuando domines\nlos fundamentos de la programación ;)');">
+<label>Nombre:</label><input type="text" name="nombre" placeholder="Tu nombre"><br>
+<label>Apellido:</label><input type="text" name="apellido" placeholder="Tu apellido"><br>
+<label>G&eacute;nero:</label><input type="radio" name="sex" value="h"> Hombre <input type="radio" name="sex" value="m"> Mujer <br>
+<label>Carrera:</label>
+<select>
+<option>ISC</option>
+<option>IMEC</option>
+<option>ICyA</option>
+<option>IE</option>
+</select><br>
+<input type="submit" value="Guardar">
+</form>
